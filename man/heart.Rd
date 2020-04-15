@@ -2,22 +2,22 @@
 % Please edit documentation in R/myfunctions.R
 \name{heart}
 \alias{heart}
-\title{Calculates test statistic, N is large, standard deviation is known}
+\title{Calculates basic test statistic, variance is known, n is large}
 \usage{
 heart(xbar, mu, sd, n)
 }
 \arguments{
 \item{xbar}{Sample mean}
 
-\item{mu}{Population mean}
+\item{mu}{Hypothesized sample mean}
 
 \item{sd}{Standard deviation}
 
-\item{n}{Observation count}
+\item{n}{Sample size}
 }
 \value{
 The test statistic
 }
 \description{
-Calculates test statistic, N is large, standard deviation is known
+Calculates basic test statistic, variance is known, n is large
 }

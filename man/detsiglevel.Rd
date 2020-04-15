@@ -2,16 +2,20 @@
 % Please edit documentation in R/myfunctions.R
 \name{detsiglevel}
 \alias{detsiglevel}
-\title{Title}
+\title{Determines the significance level}
 \usage{
 detsiglevel(p, H0, n)
 }
 \arguments{
-\item{n}{}
+\item{p}{proportion as a decimal}
+
+\item{H0}{null hypothesis threshold}
+
+\item{n}{Sample size}
 }
 \value{
 
 }
 \description{
-Title
+Determines the significance level
 }

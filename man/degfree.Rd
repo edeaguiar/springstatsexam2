@@ -2,16 +2,16 @@
 % Please edit documentation in R/myfunctions.R
 \name{degfree}
 \alias{degfree}
-\title{Title}
+\title{Unnecessary degrees of freedom function}
 \usage{
 degfree(x)
 }
 \arguments{
-\item{x}{}
+\item{x}{Vector}
 }
 \value{
 
 }
 \description{
-Title
+Unnecessary degrees of freedom function
 }

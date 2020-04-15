@@ -2,16 +2,22 @@
 % Please edit documentation in R/myfunctions.R
 \name{altnotnull}
 \alias{altnotnull}
-\title{Title}
+\title{Computes P-value when the alternate hypothesis =/ the null}
 \usage{
 altnotnull(xbar, mu, sd, n)
 }
 \arguments{
-\item{n}{}
+\item{xbar}{Sample mean}
+
+\item{mu}{Hypothesized sample mean}
+
+\item{sd}{Standard Deviation}
+
+\item{n}{Sample Size}
 }
 \value{
 
 }
 \description{
-Title
+Computes P-value when the alternate hypothesis =/ the null
 }

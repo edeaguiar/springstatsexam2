@@ -2,16 +2,18 @@
 % Please edit documentation in R/myfunctions.R
 \name{paireddatasmallsample}
 \alias{paireddatasmallsample}
-\title{Title}
+\title{Calculates t test for paired vectors}
 \usage{
 paireddatasmallsample(x1, x2)
 }
 \arguments{
-\item{x2}{}
+\item{x1}{First Vector}
+
+\item{x2}{Second Vector}
 }
 \value{
 
 }
 \description{
-Title
+Calculates t test for paired vectors
 }

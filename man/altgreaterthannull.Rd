@@ -2,16 +2,22 @@
 % Please edit documentation in R/myfunctions.R
 \name{altgreaterthannull}
 \alias{altgreaterthannull}
-\title{Title}
+\title{Calculates P-Value when the alternate hypothesis is greater than the null}
 \usage{
 altgreaterthannull(xbar, mu, sd, n)
 }
 \arguments{
-\item{n}{}
+\item{xbar}{Sample mean}
+
+\item{mu}{Hypothesized sample mean}
+
+\item{sd}{Standard Deviation}
+
+\item{n}{Sample Size}
 }
 \value{
 
 }
 \description{
-Title
+Calculates P-Value when the alternate hypothesis is greater than the null
 }

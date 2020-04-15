@@ -2,16 +2,18 @@
 % Please edit documentation in R/myfunctions.R
 \name{gunknown}
 \alias{gunknown}
-\title{Title}
+\title{Calculates P value when the alternate hypothesis is greater than null, sample size is small, population variance is unknown}
 \usage{
 gunknown(x, mu)
 }
 \arguments{
-\item{mu}{}
+\item{x}{Vector}
+
+\item{mu}{Hypothesized sample mean}
 }
 \value{
 
 }
 \description{
-Title
+Calculates P value when the alternate hypothesis is greater than null, sample size is small, population variance is unknown
 }

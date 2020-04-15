@@ -2,16 +2,18 @@
 % Please edit documentation in R/myfunctions.R
 \name{unknownpopvarsmallsamplesizetvalue}
 \alias{unknownpopvarsmallsamplesizetvalue}
-\title{Title}
+\title{T for computing P value of a vector with a hypothesized mean}
 \usage{
 unknownpopvarsmallsamplesizetvalue(x, mu)
 }
 \arguments{
-\item{mu}{}
+\item{x}{Vector}
+
+\item{mu}{Hypothesizedsample mean}
 }
 \value{
 
 }
 \description{
-Title
+T for computing P value of a vector with a hypothesized mean
 }

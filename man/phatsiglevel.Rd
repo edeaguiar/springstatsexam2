@@ -2,16 +2,18 @@
 % Please edit documentation in R/myfunctions.R
 \name{phatsiglevel}
 \alias{phatsiglevel}
-\title{Title}
+\title{Calculates the value of p hat for calculating significance level}
 \usage{
 phatsiglevel(H0, n)
 }
 \arguments{
-\item{n}{}
+\item{H0}{null hypothesis threshold}
+
+\item{n}{sample size}
 }
 \value{
 
 }
 \description{
-Title
+Calculates the value of p hat for calculating significance level
 }

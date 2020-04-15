@@ -2,16 +2,22 @@
 % Please edit documentation in R/myfunctions.R
 \name{altlessthannull}
 \alias{altlessthannull}
-\title{Title}
+\title{Computes P-value when the alternate hypothesis is less than the null}
 \usage{
 altlessthannull(xbar, mu, sd, n)
 }
 \arguments{
-\item{n}{}
+\item{xbar}{Sample mean}
+
+\item{mu}{Hypothesized sample mean}
+
+\item{sd}{Standard Deviation}
+
+\item{n}{Sample Size}
 }
 \value{
 
 }
 \description{
-Title
+Computes P-value when the alternate hypothesis is less than the null
 }

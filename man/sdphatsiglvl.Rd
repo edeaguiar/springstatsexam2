@@ -2,16 +2,18 @@
 % Please edit documentation in R/myfunctions.R
 \name{sdphatsiglvl}
 \alias{sdphatsiglvl}
-\title{Title}
+\title{Standard deviation p hat for significance level}
 \usage{
 sdphatsiglvl(p, n)
 }
 \arguments{
-\item{n}{}
+\item{p}{proportion to be tested, a decimal}
+
+\item{n}{Sample size}
 }
 \value{
 
 }
 \description{
-Title
+Standard deviation p hat for significance level
 }
