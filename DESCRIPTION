@@ -4,9 +4,9 @@ Title: Calculates different error margins and test statistics
 Version: 0.1.0
 Author: Elena de Aguiar
 Maintainer: Elena de Aguiar <eedeaguiar@gmail.com>
-Description: For AUC Spring Statistics for Sciences 2nd Exam, Confidence Intervals and Hypothesis Testing, no functions for pooled standard deviation where population variance is assumed equal 
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under? NONE!
+Description: 
+    For AUC Spring Statistics for Sciences 2nd Exam, Confidence Intervals and Hypothesis Testing, no functions for pooled standard deviation where population variance is assumed equal 
+License: NONE!
 Encoding: UTF-8
 LazyData: true
 NeedsCompilation: no
