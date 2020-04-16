@@ -1,14 +1,14 @@
 Package: hypothesis.testing
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Calculates different error margins and test statistics
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
+Author: Elena de Aguiar
+Maintainer: Elena de Aguiar <eedeaguiar@gmail.com>
+Description: For AUC Spring Statistics for Sciences 2nd Exam, Confidence Intervals and Hypothesis Testing, no functions for pooled standard deviation where population variance is assumed equal 
     Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+License: What license is it under? NONE!
 Encoding: UTF-8
 LazyData: true
 NeedsCompilation: no
-Packaged: 2020-04-15 20:12:30 UTC; rolando
+Packaged: 2020-04-15 20:12:30 UTC; elena
 RoxygenNote: 7.1.0
