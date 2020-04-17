@@ -3,7 +3,7 @@
 #'
 #' @param CI Confidence interval expressed as a decimal
 #' @param n Sample size
-#' @param population.sd Population standard deviation
+#' @param sd Population standard deviation
 #'
 #' @return
 #' @export

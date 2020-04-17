@@ -11,7 +11,7 @@ error.margin(CI, n, sd, large = TRUE)
 
 \item{n}{Sample size}
 
-\item{population.sd}{Population standard deviation}
+\item{sd}{Population standard deviation}
 }
 \value{
 

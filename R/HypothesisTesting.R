@@ -90,8 +90,8 @@ H.diff.prop.nopopvariance<-function(xbar1,xbar2,ssd1,ssd2,n1,n2,islarge=TRUE)
   else
   {
     list(method="pt",
-         T=(xbar1-xbar2)/sqrt(ssd1/4+ssd2/6),
-         Student.T.Dist=(ssd1/4+ssd2/6)^2/((ssd1/4)^2/(4-1)+(ssd2/6)^2/(6-1)))
+         T=(xbar1-xbar2)/sqrt(ssd1^2/n1+ssd2^2/n2),
+         Student.T.Dist=(ssd1^2/n1+ssd2^2/n2)^2/((ssd1^2/n1)^2/(n1-1)+(ssd2^2/n2)^2/(n2-1)))
   }
 }
 
